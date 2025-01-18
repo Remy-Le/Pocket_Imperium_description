@@ -17,8 +17,9 @@ The project is organized into different Java classes, each handling specific fun
 Each class contains functions to manage game initialization, user interactions, and game logic.
 
 ## Usage Examples
-A video demo will be provided later to show how to run the game and play it in the terminal.
-
+[This video demo will show you how to play the game in the terminal.
+](https://youtu.be/_q9_g16h-7A
+)
 ## Technical Decisions
 The project uses Java for its robust object-oriented programming features.
 
